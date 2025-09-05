@@ -35,7 +35,7 @@ This file focuses on the MAGNIFICENT_MACARONS product.
 ---
 
 --- 📊 Competition Results
-Final Profit & Loss (PnL): 300,000+
 
-Final Ranking: 4th in Spain
+- Final Profit & Loss (PnL): 300,000+
+- Final Ranking: 4th in Spain
 ---
