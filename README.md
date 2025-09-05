@@ -1,13 +1,13 @@
 # IMC-Prosperity-3
 This repository contains the Python code for our algorithmic trading solutions developed for the IMC Prosperity Challenge. The code implements various strategies for trading different virtual commodities in a simulated market environment, with the goal of maximizing our team's profit.
 
---- 🎯 Project Goals
+### 🎯 Project Goals
 -Develop and implement diverse trading strategies tailored to the unique market behaviors of different commodities in the IMC Prosperity Challenge.
 -Integrate statistical analysis methods, such as Z-scores for mean reversion, and linear regression for price prediction.
 -Manage risk and position limits through careful order sizing and failsafe mechanisms.
 -Employ different trading techniques, including market making, market taking, and conversion arbitrage.
 
---- 🔍 Overview
+### 🔍 Overview
 Our trading solution is split across two main Python files, each handling a different set of products and strategies.
 trategies.
 
@@ -24,7 +24,7 @@ This file focuses on the MAGNIFICENT_MACARONS product.
 -Z-score Mean-Reversion: Similar to the Squid Ink strategy, this bot tracks recent prices and uses a Z-score to identify overbought or oversold conditions, executing trades to profit from mean reversion.
 -Conversion Arbitrage: The bot looks for arbitrage opportunities by comparing the market price of macarons to the cost of importing (askPrice + tariffs/fees) and the revenue from exporting (bidPrice - tariffs/fees). It executes trades to profit from mispricings between the internal conversion market and the public order book.
 
---- 🛠️ Tech Stack
+### 🛠️ Tech Stack
 -Python (NumPy, Statistics)
 -The datamodel library provided by the IMC Prosperity Challenge.
 -Jupyter Notebook for Data Analysis and back testing strategies
