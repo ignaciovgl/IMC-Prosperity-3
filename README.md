@@ -2,6 +2,7 @@
 This repository contains the Python code for our algorithmic trading solutions developed for the IMC Prosperity Challenge. The code implements various strategies for trading different virtual commodities in a simulated market environment, with the goal of maximizing our team's profit.
 
 ### 🎯 Project Goals
+
 -Develop and implement diverse trading strategies tailored to the unique market behaviors of different commodities in the IMC Prosperity Challenge.
 -Integrate statistical analysis methods, such as Z-scores for mean reversion, and linear regression for price prediction.
 -Manage risk and position limits through careful order sizing and failsafe mechanisms.
