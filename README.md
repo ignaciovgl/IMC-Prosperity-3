@@ -7,6 +7,7 @@ This repository contains the Python code for our algorithmic trading solutions d
 -Manage risk and position limits through careful order sizing and failsafe mechanisms.
 -Employ different trading techniques, including market making, market taking, and conversion arbitrage.
 
+---
 ### 🔍 Overview
 Our trading solution is split across two main Python files, each handling a different set of products and strategies.
 trategies.
